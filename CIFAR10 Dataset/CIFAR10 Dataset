@@ -1,1 +1,4 @@
+You can download CIFAR10 dataset using below URL
+http://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
+
 It composed of 5 train data batch files and 1 test data batch file
