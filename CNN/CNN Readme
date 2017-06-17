@@ -1,1 +1,2 @@
 We use CNN reference code to compare performance of ANN, SVM, and CNN 
+This code is from Tensorflow official(https://github.com/tensorflow/models/blob/master/tutorials/image/cifar10/cifar10.py), and used without any changes.
